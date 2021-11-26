@@ -1,0 +1,33 @@
+.fondop{
+    background-color: rgb(26, 188, 156);
+}
+.letrab{
+    color: rgb(255, 254, 253);
+}
+.tamletra{
+    font-size: 50px;
+}
+.fondoazul{
+    background-color: rgb(0, 255, 255);
+}
+.fondomorado{
+    background-color: rgb(155, 89, 182);
+}
+.bordeblanco{
+    border: 5px solid white;
+    margin: 1px;
+}
+.bordepunteadoB{
+    border: 8px dashed white;
+    margin: 3px;
+}
+.bordepunteador{
+    border: 8px dashed rgb(188, 54, 45);
+    margin: -3px;
+    display: inline-block;
+}
+
+.algo{
+    display: flex;
+    justify-content: center;
+}

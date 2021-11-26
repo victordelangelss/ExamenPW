@@ -1,0 +1,51 @@
+.fondohoja{
+    background-color: rgb(26, 188, 156);
+}
+
+.fondoverde{
+    background-color: rgb(46, 204, 113);
+}
+
+.fondorojo{
+    background-color: rgb(230, 76, 60);
+}
+
+.fondomorado{
+    background-color: rgb(155, 89, 182);
+}
+.letrablanca{
+    color: white;
+}
+
+.bordeblanco{
+    border: 5px solid white;
+    margin: 2px;
+}
+
+.borderojo{
+    border:3px rgb(230, 76, 60);
+}
+
+.tamañocol1{
+    width: 100%;
+}
+
+.tamañoletra{
+    font-size: 50px;
+}
+
+.margen{
+    margin: -1px;
+    padding: -1px;
+}
+
+.cabecera{
+    height: 6em;
+}
+
+.tab{
+    height: 10em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
